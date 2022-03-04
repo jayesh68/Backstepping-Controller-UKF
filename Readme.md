@@ -1,4 +1,4 @@
-# Implementation of a Backstepping Controller with UNscented Kalman Filter on a Mobile Robot
+# Implementation of a Backstepping Controller with Unscented Kalman Filter on a Mobile Robot
 
 1. The pdf of the paper which served as an inspiration for the project titled "" is attached
 2. The objectives as part of this project are to ensure that a mobile robot does not change its direction as it travels along a straight path by combining a bioinspired backstepping controller and a torque controller. 
